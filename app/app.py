@@ -23,7 +23,7 @@ BATCH_SIZE = 32
 CHUNK_LENGTH_S = 30
 NUM_PROC = 32
 FILE_LIMIT_MB = 1000
-YT_LENGTH_LIMIT_S = 7200  # limit to 2 hour YouTube files
+YT_LENGTH_LIMIT_S = 72000  # limit to 2 hour YouTube files
 
 title = "Whisper JAX: The Fastest Whisper API ⚡️"
 
